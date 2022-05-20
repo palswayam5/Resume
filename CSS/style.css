@@ -48,6 +48,13 @@ h1
 {
     text-align:center;
     margin-top: 70px;
+    
+}
+main h1
+{
+    text-align:center;
+    margin-top: 70px;
+    text-decoration: underline;
 }
 
 #body-header ul li
@@ -99,6 +106,18 @@ p
 #skills
 {
     margin-top: 100px;
+}
+
+#contacts ul li
+{
+   display: inline-block;
+   padding: 15px;
+}
+#contacts ul 
+{
+   border: 2px solid black;
+   border-radius: 12px;
+   background-color: lightgrey;
 }
 
 
