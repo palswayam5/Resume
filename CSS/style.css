@@ -119,5 +119,11 @@ p
    border-radius: 12px;
    background-color: lightgrey;
 }
+#contacts
+{
+    position: relative;
+    margin-top:150px;
+}
+
 
 
